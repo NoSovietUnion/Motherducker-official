@@ -1,7 +1,7 @@
 # Motherducker-official
 The official website for my other title, Motherducker!
 
-# Links
+# Link
 https://motherducker00.vercel.app/
 
 # Booicat
