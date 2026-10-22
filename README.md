@@ -1,8 +1,10 @@
 # RYDER official
 The official website for MAIN other title
 
-# Link
+# Links
 https://ryder2u.vercel.app/
+
+https://nosovietunion.github.io/RYDER/
 
 
 # Published on:
